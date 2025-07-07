@@ -80873,5 +80873,46 @@
                 "new_value": "2155961"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-07T11:14:33.631123+00:00Z",
+        "changes": [
+            {
+                "team": "Heliax",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Heliax.interface.version",
+                "type": "modified",
+                "old_value": "1.28.2",
+                "new_value": "1.29.0"
+            },
+            {
+                "team": "itrocket",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.itrocket.interface.version",
+                "type": "modified",
+                "old_value": "1.28.3",
+                "new_value": "1.29.0"
+            },
+            {
+                "team": "itrocket",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.itrocket.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "2155961",
+                "new_value": "2156364"
+            }
+        ]
     }
 ]
