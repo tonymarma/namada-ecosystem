@@ -89583,5 +89583,28 @@
                 "new_value": "2239650"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-15T14:45:04.625130+00:00Z",
+        "changes": [
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "2239650",
+                "new_value": "2239798"
+            },
+            {
+                "team": "papadritta",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.papadritta.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            }
+        ]
     }
 ]
