@@ -96204,5 +96204,37 @@
                 "new_value": "n/a"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-18T06:25:55.315840+00:00Z",
+        "changes": [
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "2267431",
+                "new_value": "2267853"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Nodes.Guru.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Nodes.Guru.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "2815179",
+                "new_value": "2818999"
+            }
+        ]
     }
 ]
