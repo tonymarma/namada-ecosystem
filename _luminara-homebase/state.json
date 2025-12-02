@@ -1,8 +1,8 @@
 {
-    "script_start_time": "2025-12-02T17:04:27.536219+00:00Z",
-    "script_end_time": "2025-12-02T17:12:51.630030+00:00Z",
+    "script_start_time": "2025-12-02T17:37:11.344539+00:00Z",
+    "script_end_time": "2025-12-02T17:45:56.175311+00:00Z",
     "reference_latest_block_height": "4514500",
-    "housefire_reference_latest_block_height": "3621344",
+    "housefire_reference_latest_block_height": "3621576",
     "required_versions": {
         "interface": "1.31.1",
         "indexer": "3.3.4",
@@ -795,12 +795,12 @@
                         {
                             "service": "rpc",
                             "url": "https://rpc.papadritta.com",
-                            "status": "up",
-                            "version": "0.37.16",
+                            "status": "down",
+                            "version": "n/a",
                             "is_up_to_date": false,
-                            "namada_version": "201.0.7",
-                            "latest_block_height": "4514500",
-                            "sync_state": "sync_ok"
+                            "namada_version": "n/a",
+                            "latest_block_height": "0",
+                            "sync_state": "sync_nok"
                         }
                     ]
                 }
